@@ -17,7 +17,7 @@
   * [Useful Methods](./methods.md)
   * [Tcpdf Methods](./tcpdf_methods.md)
 
-## Recommandations
+## Recommendations
    
   * It is very important to provide valid HTML 4.01 to the converter, but only what is in the `<body>`.
   * Use the `<page>` tag. Does not use the `<html>` or `<body>` tag.
